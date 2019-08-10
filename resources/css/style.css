@@ -69,3 +69,33 @@ a{
     align-content: center;
     margin: 0 auto;
 }
+
+
+
+      /*  Third Section   */
+.third-container{
+    max-width: 100;
+    max-height:100;
+    margin-top:1.5rem;
+}
+.third-container img{
+    display: flex;
+    align-content: center;
+    margin: 0 auto;
+}
+.third-container h1{
+    margin-top:2rem;
+    font-weight: 300;
+    font-size:2.625rem;
+    text-align: center;
+    color: white;
+}
+.third-container p{
+    margin-top:2.1rem;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+a{
+    color: aquamarine;
+}
