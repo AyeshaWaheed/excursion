@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size:16px;
+}
+body{
+    background-color: black;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+
+      /* First Section   */
+
+.first-container{
+    max-width: 100%;
+    max-height:100%;
+    margin-top:2.1rem;
+}
+ h1{
+    font-weight:normal;
+    color: white;
+    font-size:3.125rem;
+    text-align: center;
+
+}
+p{
+    margin-top:2.1rem;
+    width: 100%;
+    text-align: center;
+}
+a{
+    color: aquamarine;
+}
